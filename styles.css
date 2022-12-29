@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-family: Shadows Into Light, cursive;
+
+}
+.profilephoto{
+    height: 250px;
+}
+.pythonimg{
+    height: 200px;
+}
+.html{
+    height: 200px;
+}
+h2,h3{
+    font-family: "Pacifico",serif;
+}
+.top-container{
+    padding-top: 50px;
+    position: relative;
+    background-color: #FFE5F1;
+}
+.second-cloud{
+    position: absolute;
+    left:200px;
+}
+.first-cloud{
+    position: absolute;
+    right:180px;
+    top:20px;
+}
+.writing{
+    margin-top: 20px;
+}
