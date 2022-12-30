@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-family: Shadows Into Light, cursive;
+    font-size: 5.625rem;
+    margin:70px auto 0 auto;
+    color: #66BFBF;
+
+}
+.sun-img{
+    height:150px;
+    position: absolute;
+    left:150px;
+    top:0px;
+}
+.profilephoto{
+    height: 250px;
+}
+.pythonimg{
+    height: 200px;
+}
+.html{
+    height: 200px;
+}
+h2{
+    font-family: "Pacifico",serif;
+    color:#66BFBF;
+    font-weight: normal;
+    line-height: 2;
+}
+h3{
+    font-family: "Pacifico",serif;
+    color:#11999E;
+
+}
+a{
+    color: #11999E;
+}
+.top-container{
+    padding-top: 50px;
+    position: relative;
+    background-color: #FFF6BD;
+}
+.second-cloud{
+    position: absolute;
+    left:200px;
+}
+.first-cloud{
+    position: absolute;
+    right:180px;
+    top:120px;
+}
+.writing{
+    margin-top: 20px;
+}
+.title{
+    font-size:2.5rem;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 12px;
+    color: gray;
+    width: 4%;
+}
