@@ -29,6 +29,11 @@ p{
     float: left;
     margin-right: 30px;
 }
+.c-photo{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
 .html{
     width: 25%;
     float:right;
