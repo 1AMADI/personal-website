@@ -31,7 +31,7 @@ p{
 }
 .cphoto{
     width: 25%;
-    float:left;
+    float: left;
     margin-right: 30px;
 }
 .html{
@@ -69,6 +69,7 @@ a:hover{
     padding-top: 50px;
     position: relative;
     background-color: #EAF6F6;
+    width: auto;
 }
 .second-cloud{
     position: absolute;
@@ -141,3 +142,7 @@ hr{
   .horline{
     color:white
   }
+.codingimg{
+    width:35%;
+    margin: auto;
+}
